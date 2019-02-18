@@ -1,0 +1,23 @@
+{
+  "name": "amplify-repo-boilerplate",
+  "version": "1.0.0",
+  "description": "This project contains a template to use when creating a new project. It comes with all the standard files which there is expected to be in an open source project on Github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denseidel/amplify-repo-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denseidel/amplify-repo-boilerplate/issues"
+  },
+  "homepage": "https://github.com/denseidel/amplify-repo-boilerplate#readme",
+  "dependencies": {
+    "hygen": "^2.1.2",
+    "nodegit": "^0.24.1"
+  }
+}
