@@ -2,13 +2,8 @@
 
 This project provides a plugin to the [aws amplify cli](https://aws-amplify.github.io/docs/cli/plugins?sdk=js) to add the boilerplate files to a new git repository based on the [Zalando Open Source Best Practices](https://github.com/d10l/new-project) this will make creating new repositories faster and more standardized. This includes:
 
-* Pull Request Template
-* Readme Template
-* Issue Template
-* Crontribting Template
-* License Template
-* Security Template
-* Maintainer Template
+- `amplify repo add-boilerplate`: Adding Templates for`Pull Request`, `Readme`, `Issue`, `Crontribting`, `License`, `Security`, `Maintainer`
+- `amplify repo add-guideline-agent.js`: Adding `.zappr.yaml` and opening `https://zappr.opensource.zalan.do/login`
 
 ## Getting Started
 

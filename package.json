@@ -18,6 +18,7 @@
   "homepage": "https://github.com/denseidel/amplify-repo-boilerplate#readme",
   "dependencies": {
     "hygen": "^2.1.2",
-    "nodegit": "^0.24.1"
+    "nodegit": "^0.24.1",
+    "opn": "^5.4.0"
   }
 }
